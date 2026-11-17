@@ -321,3 +321,14 @@ This repository represents the grocery delivery app development services and sol
 It is intended as a project and service showcase. It does not grant permission to redistribute, commercially use, or reproduce proprietary source code, designs, or intellectual property.
 
 For licensing or commercial enquiries, contact Naya Prayog Technologies.
+
+<!-- screenshots -->
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><b>Home</b><br><br><img src="screenshots/1-home.png" alt="Home" width="240"></td>
+    <td align="center"><b>Categories</b><br><br><img src="screenshots/2-categories.png" alt="Categories" width="240"></td>
+    <td align="center"><b>Cart & Checkout</b><br><br><img src="screenshots/3-cart.png" alt="Cart & Checkout" width="240"></td>
+  </tr>
+</table>
